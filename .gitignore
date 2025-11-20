@@ -87,6 +87,13 @@ web_modules/
 .next
 out
 
+# Next.js auto-generated files
+next-env.d.ts
+
+# Lock files from other package managers (this project uses pnpm)
+package-lock.json
+yarn.lock
+
 # Nuxt.js build / generate output
 .nuxt
 dist
